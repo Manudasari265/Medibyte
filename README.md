@@ -7,6 +7,13 @@ Welcome to the Medibyte prototype project! This guide will help you set up and i
 Make sure you have the following installed on your system:
 - [Node.js](https://nodejs.org/) (version 14.x or higher)
 - [npm](https://www.npmjs.com/) (comes with Node.js)
+<img width="1695" alt="Screenshot 2024-10-05 at 12 21 14 PM" src="https://github.com/user-attachments/assets/0e8c780d-c21b-41bb-9c91-e9630e9bff04">
+
+<img width="1695" alt="Screenshot 2024-10-05 at 12 22 03 PM" src="https://github.com/user-attachments/assets/9a357195-2fb2-47a7-91d6-4684b22580db">
+
+<img width="1695" alt="Screenshot 2024-10-05 at 12 23 02 PM" src="https://github.com/user-attachments/assets/812427f1-9e1d-41f5-a7f5-030c16ef4d87">
+
+<img width="1693" alt="Screenshot 2024-10-05 at 12 23 27 PM" src="https://github.com/user-attachments/assets/4ba5f88c-8ccd-454c-b776-72123f5cdf16">
 
 ## Setup Instructions
 
